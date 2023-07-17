@@ -5,7 +5,7 @@ Using praw to access the reddit api the bot will read through subreddits automat
 
 # Info on praw package: 
 
-![](Python/download)
+![download](https://github.com/danyu1/Reddit-Read-Bot/assets/115963400/60cbcf47-f2d2-4e37-9cf0-18a02ddb8b3e)
 
 [praw package](https://praw.readthedocs.io/en/stable/code_overview/reddit_instance.html)
 
